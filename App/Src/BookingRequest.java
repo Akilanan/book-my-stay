@@ -1,4 +1,4 @@
-package com.hotel.model;
+
 
 import java.time.LocalDate;
 

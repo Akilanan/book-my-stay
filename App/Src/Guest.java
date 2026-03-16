@@ -1,4 +1,4 @@
-package com.hotel.model;
+
 
 /**
  * Value object representing a hotel guest.

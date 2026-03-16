@@ -1,7 +1,7 @@
-package com.hotel.usecase;
 
-import com.hotel.model.BookingRequest;
-import com.hotel.model.Guest;
+
+
+
 
 import java.time.LocalDate;
 import java.util.ArrayList;

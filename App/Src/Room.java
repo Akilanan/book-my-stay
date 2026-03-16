@@ -1,4 +1,4 @@
-package com.hotel.model;
+
 
 /**
  * Immutable value object representing a hotel room.
